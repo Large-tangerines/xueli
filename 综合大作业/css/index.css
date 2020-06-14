@@ -1,0 +1,149 @@
+#top{
+    width:100%;
+    height:60px;
+}
+
+#top .top-content{
+	width: 1200px;
+	height: 60px;
+	margin: 0px auto;
+}
+
+
+#top .top-content .importance{
+    width: 200px;
+    height: 60px;
+	 color: #333333;
+    float: right;
+	line-height: 60px;
+}
+#title{
+	width: 100%;
+	height: 60px;
+}
+#title .title-content{
+	width: 1200px;
+	height: 60px;
+	margin: 0px auto;
+}
+#title .title-content .words{
+    width: 800px;
+    height: 60px;
+    color: #333333;
+    float: left;
+	line-height: 60px;
+}
+
+
+#center .center-content .black2{
+    width: 100%;
+    height: 88px;
+}
+#center .center-content .brand{
+    width: 100%;
+    height: 93px;
+    text-align: center;
+}
+#center .center-content .search .box {
+    text-align: center;
+
+}
+#center .center-content .search .box .box1{
+    width: 541px;
+    height: 37px;
+}
+#center .center-content .search .box .box2{
+    width: 102px;
+    height: 45px;
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+}
+#center .center-content .black3{
+    width: 100%;
+    height: 364px;
+}
+#center .center-content .code{
+    text-align: center;
+    width: 100%;
+    height: 117px;
+}
+#center .center-content .download{
+    width: 100%;
+    height: 33px;
+    text-align: center;
+}
+#center .center-content .character{
+    width: 100%;
+    height: 16px;
+    text-align: center;
+}
+#center .center-content .black4{
+    width: 100%;
+    height: 95px;
+}
+#foot{
+    width: 100%;
+    height: 40px;
+    background-color: #fafafa;
+}
+#foot .foot-content .black5{
+    width: 28px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .make{
+    width: 68px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .history{
+    width: 68px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .Ehistory{
+    width: 86px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .generalize{
+    width: 68px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .use{
+    width: 105px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .opinion{
+    width: 68px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .help{
+    width: 68px;
+    height: 40px;
+    float: left;
+}
+#foot .foot-content .record1{
+    width: 128px;
+    height: 40px;
+    float: right;
+}
+#foot .foot-content .record2{
+    width: 185px;
+    height: 40px;
+    float: right;
+}
+#foot .foot-content .record3{
+    width: 142px;
+    height: 40px;
+    float: right;
+}
+#foot .foot-content .record4{
+    width: 194px;
+    height: 40px;
+    float: right;
+}
